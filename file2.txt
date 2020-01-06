@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Added on remote
+=======
+added on remote edited locally
+>>>>>>> tempChanges
