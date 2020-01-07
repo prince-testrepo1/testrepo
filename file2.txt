@@ -1,4 +1,4 @@
 added on remote edited locally
-This line added on local
+This line added on local and this edited locally
 this line added on remote
 
